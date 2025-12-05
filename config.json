@@ -1,0 +1,5 @@
+{
+  "apikey": "FAKE-SECRET-12345",
+"dbPassword": "SENSITIVE-DATA-PRIVATE-REPO",
+"note": "This is dummy content for testing unauthorized access"
+}
